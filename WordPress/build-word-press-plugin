@@ -1,0 +1,2 @@
+cp ../js/iframeResizer.min.js wp-iframe-resizer/js/
+zip -r wp-iframe-resizer.zip wp-iframe-resizer
